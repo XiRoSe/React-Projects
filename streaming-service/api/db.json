@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "My new stream!",
+      "description": "Awasome Stream!",
+      "userId": "102830507774792164265",
+      "id": 1
+    },
+    {
+      "title": "meital stream!!~~~~",
+      "description": "Meital Stream!!~",
+      "userId": "102830507774792164265",
+      "id": 2
+    },
+    {
+      "title": "dota stream!",
+      "description": "wohooo!!",
+      "userId": "102830507774792164265",
+      "id": 3
+    },
+    {
+      "title": "my stream",
+      "description": "wohoo!",
+      "userId": "115462249751682402645",
+      "id": 4
+    }
+  ]
+}
